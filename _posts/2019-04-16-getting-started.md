@@ -1,10 +1,10 @@
 ---
-layout: post
+layout: posts
 title: "Getting started"
 categories: [coding]
 ---
 
-#Getting Started
+# Getting Started
 
 **Welcome** to my blog!
 
