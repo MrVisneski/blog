@@ -15,8 +15,8 @@ I have been learning to code on FreeCodeCamp.com for the past few weeks and so f
 
 I'm hoping to learn coding in my free time beginning with the basics of HTML, Javascript and CSS.
 
-I have previously had a **little bit** of experience with coding with **Java** back in 2012 when I was 15 with coding plugins for Minecraft servers. Since then in the past 5 years I had forgotten pretty much everything I had learnt back then. 
+I have previously had a **little bit** of experience with coding with **Java** back in 2012 when I was 15 with coding plugins for Minecraft servers. Since then in the past 5 years I had forgotten pretty much everything I had learnt back then.
 
-My old github can be found [here.](www.github.com/McLuke300/)
+My old github can be found [here.](https://github.com/McLuke300/)
 
 In 2019 I decided to have a go at **coding** again and have decided to try and work through the course at [FreeCodeCamp.com](https://freecodecamp.org)
